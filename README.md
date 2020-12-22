@@ -1,5 +1,5 @@
 # Build-my-world
-## Building a gazebo world which has a room , with three chairs and a tww wheeled robot self balancing 
+### Building a gazebo world which has a room , with three chairs and a two wheeled robot self balancing 
 steps as follows
 1 creating the project folder 
 2 creating a building using the build editor  
